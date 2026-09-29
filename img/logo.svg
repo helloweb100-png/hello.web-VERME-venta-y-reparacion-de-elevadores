@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300" role="img" aria-label="VERME — Venta, reparación y mantenimiento de elevadores">
+  <title>VERME</title>
+  <g transform="scale(1.04895 1.13636) translate(-92 -648)">
+    <!-- Marco cuadrado redondeado -->
+    <rect x="97" y="653" width="275" height="254" rx="31" fill="#3a52b3" stroke="#ffffff" stroke-width="10"/>
+
+    <!-- Flechas subir / bajar -->
+    <path fill="#ffffff" d="M129.5 675 L145.5 690 H137 V702 H122 V690 H113.5 Z"/>
+    <path fill="#ffffff" d="M325 675 H340 V688 H348.5 L332.5 702 L316.5 688 H325 Z"/>
+
+    <!-- Números de piso 1-6 -->
+    <g fill="none" stroke="#ffffff" stroke-width="3.3" stroke-linejoin="round">
+      <path transform="translate(166.0 675.5) scale(1.06)" d="M -6 5 L 1 0 L 1 24"/>
+      <path transform="translate(191.8 675.5) scale(1.06)" d="M -8 7 C -8 -3 8 -3 8 7 C 8 15 -8 17 -8 24 H 8.5"/>
+      <path transform="translate(217.6 675.5) scale(1.06)" d="M -8 3 C -3 -2.5 8 -2 8 6 C 8 11 3 12 -2 12 C 3 12 8.5 13 8.5 18 C 8.5 26 -4 26.5 -8.5 21"/>
+      <path transform="translate(243.4 675.5) scale(1.06)" d="M 4 24 V 0 L -8.5 17 H 9"/>
+      <path transform="translate(269.2 675.5) scale(1.06)" d="M 7.5 0.5 H -6 L -7.5 11.5 C -3 9 8.5 8.5 8.5 17 C 8.5 26 -4 26.5 -8 21"/>
+      <path transform="translate(295.0 675.5) scale(1.06)" d="M 7 2 C 0 -2 -8.5 4 -8.5 16 M 8.5 16 A 8.5 8 0 1 1 -8.5 16 A 8.5 8 0 1 1 8.5 16"/>
+    </g>
+
+    <g fill="#ffffff">
+      <!-- V -->
+      <path d="M125 718 H148 L163.5 776 L179 718 H202 L180 797 H147 Z"/>
+      <!-- E -->
+      <path d="M208 718 H266 V736 H229 V749 H260 V765 H229 V780 H268 V797 H208 Z"/>
+      <!-- R -->
+      <path fill-rule="evenodd" d="M278 718 H324 C336 718 342 727 342 738 V751 C342 760 338 766 332 769 L340 772 V797 H321 V771 H299 V797 H278 Z M299 736 H321 V755 H299 Z"/>
+      <g transform="translate(0 -3)">
+      <!-- M -->
+      <path d="M133 897 V817 H158 L171 850 L184 817 H209 V897 H190 V860 L180 897 H162 L152 860 V897 Z"/>
+      <!-- E -->
+      <path d="M220 817 H254 V833 H239 V848 H250 V863 H239 V881 H257 V897 H220 Z"/>
+      </g>
+      <!-- Icono puerta de elevador -->
+      <path d="M264 807 H351.5 V902 H344 V849.5 H312 V902 H304.5 V849.5 H271.5 V902 H264 Z M271.5 814.5 V842 H344 V814.5 Z" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
